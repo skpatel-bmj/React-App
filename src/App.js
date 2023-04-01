@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
     <div>BMJ LOGO</div>
     <h1> Hello hi </h1>
-    <h2> hello h2 </h2>
+    <h2> hello h2  hii</h2>
       </header>
     </div>
   );
